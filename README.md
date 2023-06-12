@@ -12,3 +12,6 @@ You can see what will happen after step by step, including the changes of regist
 4. "load input file" button -> Import your text file as input. You will see your content is shown on input window. 
 "# SIC_Simulator" 
 "# SIC_Simulator" 
+
+## User Interface
+![未命名](https://github.com/candy13222/SIC_Simulator/assets/78140351/ea3defac-0a9c-4446-9171-52e720512afe)
